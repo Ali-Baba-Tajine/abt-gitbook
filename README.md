@@ -1,11 +1,7 @@
 Ali Baba Tajine - gitbook
 ======
 
-This book will teach you the basics of programming and Javascript. Whether you are an experienced programmer or not, this book is intended for everyone who wishes to learn the JavaScript programming language.
+Dieses Buch ist für NeueinsteigerInnen, die das erste Mal mit der Tajine kochen.
 
-[![Screen](./assets/intro.png)](./assets/intro.png)
+[![Screen](./assets/fenster.jpg)](./assets/fenster.jpg)
 
-JavaScript (*JS for short*) is the programming language that enables web pages to respond to user interaction beyond the basic level. It was created in 1995, and is today one of the most famous and used programming languages.
-
-
-**Note:** This book has been generated using [GitBook](http://www.gitbook.io) and is open source, feel free to contribute or signal issues on [GitHub](https://github.com/GitbookIO/javascript). You can download a **PDF** or **ePUB** version at [https://www.gitbook.io/book/GitBookIO/javascript](https://www.gitbook.io/book/GitBookIO/javascript).
