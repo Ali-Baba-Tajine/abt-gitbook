@@ -1,4 +1,4 @@
-# Sehr geehrte Kundin, sehr geehrter Kunde,
+# Sehr geehrte Kundin, Sehr geehrter Kunde,
 
 
 wir freuen uns, daß Sie sich für eine Ali Baba Tajine,

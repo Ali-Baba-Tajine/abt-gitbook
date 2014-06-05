@@ -1,4 +1,4 @@
-# Summary
+# Inhalt
 
 * [Basics](basics/intro.md)
     * [Comments](basics/comments.md)
